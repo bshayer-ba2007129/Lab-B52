@@ -1,0 +1,16 @@
+{
+  "name": "banking-app",
+  "version": "1.0.0",
+  "description": "banking app",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha **/*.spec.js"
+  },
+  "type": "module",
+  "author": "abdulahi",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
